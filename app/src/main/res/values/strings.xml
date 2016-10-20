@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Expense_Manager_Project</string>
+
+    <string-array name="header_titles">
+        <item>Travel</item>
+        <item>Fuel</item>
+        <item>Restaurant</item>
+        <item>Medical</item>
+        <item>Grocery</item>
+        <item>Shopping</item>
+        <item>Taxes</item>
+        <item>Loans</item>
+        <item>Bills</item>
+    </string-array>
+    
+    <string-array name="h1_items">
+        <item>Bangalore</item>
+        <item>Mangalore</item>
+        <item>Mysore</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Indian Oil</item>
+        <item>BP</item>
+        <item>Shell</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>Udupa</item>
+        <item>CTR</item>
+        <item>Vidyarthi Bhavan</item>
+    </string-array>
+
+    <string-array name="h4_items">
+        <item>Medications</item>
+        <item>Nursing Home</item>
+        <item>Shots</item>
+    </string-array>
+
+    <string-array name="h5_items">
+        <item>Reliance</item>
+        <item>Corner Store</item>
+        <item>Daily Store</item>
+    </string-array>
+
+    <string-array name="h6_items">
+        <item>Clothes</item>
+        <item>Daily Items</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="h7_items">
+        <item>Income</item>
+        <item>House</item>
+        <item>Custom</item>
+    </string-array>
+
+    <string-array name="h8_items">
+        <item>Vehicle</item>
+        <item>Agriculture</item>
+        <item>Home</item>
+    </string-array>
+
+    <string-array name="h9_items">
+        <item>Electricity</item>
+        <item>Water</item>
+        <item>Internet</item>
+    </string-array>
+
+</resources>
+
